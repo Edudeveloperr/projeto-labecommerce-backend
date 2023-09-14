@@ -2,3 +2,5 @@
 const sobreNome = process.argv[3]
 
 console.log(`O primeiro nome é ${nome} e o sobrenome é ${sobreNome} `);*/
+
+//console.log
